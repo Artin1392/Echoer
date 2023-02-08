@@ -8,7 +8,7 @@ Imports And Measages
 import sys
 
 def init():
-    print("Welcom")
+    print("Welcome")
     print("Thanks for select me.")
     print("Please type text for echo.")
     print("type 1 for exit.")
